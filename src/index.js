@@ -1,3 +1,5 @@
+import initData from "./initData.js"
+
 /**
  * Vue构造函数
  * @param {*} options new Vue传递的配置对象

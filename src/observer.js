@@ -1,3 +1,7 @@
+import defineReactive from "./defineReactive.js"
+import observe from "./observe.js"
+import protoArgument from "./protoArgument.js"
+
 /**
  * 为普通对象或者数组设置响应式的入口 
  */

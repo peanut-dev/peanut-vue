@@ -1,3 +1,5 @@
+import Observer from "./observer.js"
+
 /**
  * 通过 Observer 类为对象设置响应式能力
  * @returns Observer 实例

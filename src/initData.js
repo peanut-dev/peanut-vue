@@ -1,3 +1,6 @@
+import observe from "./observe.js"
+import { proxy } from "./utils.js"
+
 export default function initData(vm) {
   // 获取data选项
   let { data } = vm.$options

@@ -1,3 +1,5 @@
+import observe from "./observe.js"
+
 /**
  * 通过 Object.defineProperty 为 obj.key 设置 getter、setter 拦截
  */
